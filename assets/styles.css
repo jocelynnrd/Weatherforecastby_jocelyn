@@ -1,0 +1,37 @@
+h1 {
+    background: #f9cce3; /* pastel pink */
+    text-align: center;
+    color: #444;
+    padding: 8px;
+    border-radius: 5px;
+  }
+  
+  label {
+    margin-top: 8px;
+    font-weight: bold;
+    color: #555;
+  }
+
+  .card, .section-one, .section-two {
+    background: #ffe6ef; /* light pastel pink */
+    margin: 10px;
+    border-radius: 6px;
+    padding: 10px;
+  }
+ 
+  .status-green { background: #d8f5dc; } /* soft green */
+  .status-yellow { background: #fff7d1; } /* pale yellow */
+  .status-orange { background: #ffd8ba; } /* peach */
+  .status-red { background: #f5c3c3; } /* light red */
+  .status-purple { background: #e5d4eb; } /* light lavender */
+ 
+  .icon {
+    height: 60px;
+    width: 60px;
+  }
+  
+  .date {
+    font-size: 18px;
+    color: #666;
+  }
+  
